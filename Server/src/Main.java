@@ -3,6 +3,11 @@ import java.net.Socket;
 import java.util.concurrent.Executor;
 import java.util.concurrent.Executors;
 
+/***************************************************************************************
+ * Written by: Simon Cicek                                                             *
+ * Last changed: 2012-04-13                                                            *
+ ***************************************************************************************/
+
 public class Main 
 {
     private static int maxClients = 10;

@@ -3,6 +3,11 @@ import java.io.ObjectOutputStream;
 import java.net.Socket;
 import javax.swing.JOptionPane;
 
+/***************************************************************************************
+ * Written by: Simon Cicek                                                             *
+ * Last changed: 2012-04-13                                                            *
+ ***************************************************************************************/
+
 public class ConnectionHandler implements Runnable
 {
     int score = 0, allowedAttempts, port;

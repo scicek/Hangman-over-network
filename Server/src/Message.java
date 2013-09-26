@@ -1,5 +1,10 @@
 import java.io.Serializable;
 
+/***************************************************************************************
+ * Written by: Simon Cicek                                                             *
+ * Last changed: 2012-04-13                                                            *
+ ***************************************************************************************/
+
 // This class will be used to pass information between client and server
 public class Message implements Serializable
 {

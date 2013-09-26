@@ -6,6 +6,11 @@ import java.io.ObjectOutputStream;
 import java.net.Socket;
 import java.util.Random;
 
+/***************************************************************************************
+ * Written by: Simon Cicek                                                             *
+ * Last changed: 2012-04-13                                                            *
+ ***************************************************************************************/
+
 // Handles all communication with a client
 public class ClientHandler implements Runnable
 {

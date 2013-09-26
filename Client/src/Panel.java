@@ -9,6 +9,11 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+/***************************************************************************************
+ * Written by: Simon Cicek                                                             *
+ * Last changed: 2012-04-13                                                            *
+ ***************************************************************************************/
+
 public class Panel extends JPanel implements ActionListener
 {
     public ConnectionHandler connectionHandler;
